@@ -11,9 +11,9 @@ engineering teams.
 ## My Skill Set
 
 - I have experience in designing back-ends of almost any size, specializing in **Ruby on Rails** and **Node.js** back-ends.
-- My focus is on **software architecture**, meaning designing software for maintainability, reliability, and scale.
-- I've also been **leading engineering teams** for happiness and performance.
-- Experience in systems infrastructure, including AWS and GCP. Emphasis on reproducibility, scalability, performance, and cost reduction.
+- My focus is on **software architecture**, meaning designing systems for maintainability, reliability, and scale.
+- I've also been **leading engineering teams** effectively, ensuring an environment where people can do their best work.
+- Experience in systems infrastructure. Emphasis on reproducibility, scalability, performance, and cost reduction.
 
 ## Connect with me
 
