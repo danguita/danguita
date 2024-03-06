@@ -35,9 +35,9 @@ engineering teams.
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lessons learned from over 15 years of software consulting](https://davidanguita.name/articles/lessons-learned-from-over-15-years-of-software-consulting/)
 - [The postmodern development environment](https://davidanguita.name/articles/the-postmodern-development-environment/)
 - [Dockerizing a Phoenix project](https://davidanguita.name/articles/dockerizing-a-phoenix-project/)
 - [Simple data visualization stack with Docker, InfluxDB and Grafana](https://davidanguita.name/articles/simple-data-visualization-stack-with-docker-influxdb-and-grafana/)
 - [Setting up a cheap Redmine server using Unicorn and Apache](https://davidanguita.name/articles/setting-up-a-cheap-redmine-server-using-unicorn-and-apache/)
-- [Paperclip defaults for Amazon S3 virtual hosted-style requests](https://davidanguita.name/articles/paperclip-defaults-for-amazon-s3-virtual-hosted-style-requests/)
 <!-- BLOG-POST-LIST:END -->
